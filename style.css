@@ -332,3 +332,7 @@ footer {
   .hero h1 { font-size: 2.1rem; }
   .contact-cards { flex-direction: column; align-items: flex-start; }
 }
+
+p {
+  text-align: justify;
+}
